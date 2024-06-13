@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-WebGL Placeholder-0.1.0";
 const contentToCache = [
     "Build/iOS Build.loader.js",
-    "Build/iOS Build.framework.js.gz",
-    "Build/iOS Build.data.gz",
-    "Build/iOS Build.wasm.gz",
+    "Build/iOS Build.framework.js",
+    "Build/iOS Build.data",
+    "Build/iOS Build.wasm",
     "TemplateData/style.css"
 
 ];
